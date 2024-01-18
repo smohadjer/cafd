@@ -1,7 +1,7 @@
 <?php
 
 // Mysql
-$db_host = "localhost"; // Host name
+$db_host = "127.0.0.1"; // Host name
 //$db_username = "root"; // Mysql username
 //$db_password = ""; // Mysql password
 //$db_name = "cafd"; // DB name
